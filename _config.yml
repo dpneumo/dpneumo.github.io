@@ -14,7 +14,7 @@ sass:
   style: :nested
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
-title:		           "WWNA Border Landscape Project"
+title:		           "WWNA Border Project"
 description:	       "Documenting the WWNA border landscape project as it proceeds."
 author:              "Mitch Kuppinger"
 
