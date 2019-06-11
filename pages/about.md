@@ -3,4 +3,4 @@ layout: misc
 title: About
 ---
 
-Millennial is a minimalist Jekyll theme. The purpose of this theme is to provide a simple, clean, content-focused publishing platform for your publication site or blog. You can find everything you need to get started under documentation. For more information on how to install and use this theme, check out [the documentation]({{ site.github.url }}{% post_url 2016-10-10-getting-started %}).
+The City of Arlington Texas offers a Neighborhood Grant program designed to encourage neighborhoods to work together to improve the neighborhod in some way. The Waterwood Neighborhood Association applied in February 2019 for a grant to upgrade the border along Arkansas Lane and along Perkins Place. We were approved to receive $18,000 for the project. Work begins on June 1.

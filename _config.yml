@@ -14,9 +14,9 @@ sass:
   style: :nested
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
-title:		           "Millennial"
-description:	       "a Jekyll theme for running a blog or publication"
-author:              "Paul Le"
+title:		           "WWNA Border Landscape Project"
+description:	       "Documenting the WWNA border landscape project as it proceeds."
+author:              "Mitch Kuppinger"
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 #feed:
