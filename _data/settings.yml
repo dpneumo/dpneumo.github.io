@@ -7,7 +7,7 @@ disqus:
 google-ID: ''
 
 menu:
-- {name: 'Just before starting', folder: 'pages', file: 'prestart.html'}
+- {name: 'Just before starting', folder: 'pages', file: 'start_arklane.html'}
 - {name: 'Learning Resources', folder: 'pages', file: 'resources.html'}
 - {name: 'Sample Posts', folder: 'pages', file: 'sample-posts.html'}
 - {name: 'Documentation', folder: 'pages', file: 'documentation.html'}
