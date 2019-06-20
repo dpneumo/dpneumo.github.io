@@ -11,11 +11,10 @@ layout: default
 <!-- The flexible grid (content) -->
 <div class="row">
   <div class="side">
-    <div class="navbar">
-      <a href="#">Link</a>
-      <a href="#">Link</a>
-      <a href="#">Link</a>
-      <a href="#">Link</a>
+    <div class="sidebar">
+      <ul>
+        {% include {{ page.linkset }} %}
+      </ul>
     </div>
   </div>
   <div class="main">
