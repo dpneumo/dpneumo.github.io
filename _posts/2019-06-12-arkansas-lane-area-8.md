@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Arkansas Lane Area 1"
+title: "Arkansas Lane Area 8"
 author: "Mitch Kuppinger"
 categories: areas
 tags: [areas,arkansas,start]
-image: area_maps/Area_1.png
+image: area_maps/Area_8.png
 ---
 
-This is Area 1 along Arkansas Lane.
+This is Area 8 along Arkansas Lane.
