@@ -8,6 +8,7 @@ google-ID: ''
 
 menu:
 - {name: 'Maps', folder: 'pages', file: 'start_arklane.html'}
+- {name: 'Images', folder: 'pages', file: 'start_arklane.html'}
 - {name: 'About', folder: 'pages', file: 'about.html'}
 - {name: 'Contact', folder: 'pages', file: 'contact.html'}
 
