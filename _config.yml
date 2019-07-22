@@ -293,3 +293,19 @@ defaults:
       comments: # true
       share: true
       related: true
+
+  # _maps_2019-06-01
+  - scope:
+      path: ""
+      type: maps_2019-06-01
+    values:
+      layout: single
+      title: "Arkansas Lane Initial Plant Location Maps"
+      linkset: map/areamap-linkset.html
+      imageset: assets/img/area_maps
+      author_profile: false
+
+collections:
+  maps_2019-06-01:
+    output: true
+    permalink: /:collection/:path/
