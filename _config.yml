@@ -302,13 +302,31 @@ defaults:
     values:
       layout: single
       title: "Arkansas Lane Initial Plant Locations"
-      imageset: "assets/images"
+      description: "Have placed the proposed Trellis positions in the appropriate area maps to assist planning for plant removal."
+      imageset: "assets/images/2019-06-01"
+      ext: ".png"
       author_profile: false
-      toc: true
       sidebar:
         nav: "maps_2019-06-01"
 
+  # _pics_2019-06-08
+  - scope:
+      path: ""
+      type: pics_2019-06-08
+    values:
+      layout: single
+      title: "Arkansas Lane Before Work Started"
+      description: "Pictures taken before work was started. Marking the areas for plant removal and trellis positions."
+      imageset: "assets/images/2019-06-08"
+      ext: ".JPG"
+      author_profile: false
+      sidebar:
+        nav: pics_2019-06-08
+
 collections:
   maps_2019-06-01:
+    output: true
+    permalink: /:collection/:path/
+  pics_2019-06-08:
     output: true
     permalink: /:collection/:path/

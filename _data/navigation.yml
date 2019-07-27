@@ -1,6 +1,8 @@
 main:
   - title: "Area Maps - 2019-06-01"
-    url: /maps_2019-06-01/area01
+    url: maps_2019-06-01/area01
+  - title: "Area Pictures - 2019-06-08"
+    url: pics_2019-06-08/area01
 
 maps_2019-06-01:
   - title: "Area 1"
@@ -37,3 +39,13 @@ maps_2019-06-01:
     url: maps_2019-06-01/area16
   - title: "Area 17"
     url: maps_2019-06-01/area17
+
+pics_2019-06-01:
+  - title: "Area 1"
+    url: pics_2019-06-08/area01
+  - title: "Area 2"
+    url: pics_2019-06-08/area02
+  - title: "Area 3"
+    url: pics_2019-06-08/area03
+  - title: "Area 4"
+    url: pics_2019-06-08/area04
