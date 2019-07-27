@@ -2,11 +2,7 @@
   Area {{ page.img_number }}
 </h3>
 
-<div  class="featured-posts"
-  {% if page.img_number %}
-    style="background-image:url({{ site.github.url }}/{{ page.imageset }}/Area_{{ page.img_number }}.png)"
-  {% endif %}>
-</div>
+  <img src="{{ site.servurl }}{{ site.baseurl }}{{ page.imageset }}/area{{ page.img_number }}.png" alt="">
 
 <div>
 Have placed the proposed Trellis positions in the appropriate area maps to assist planning for plant removal.

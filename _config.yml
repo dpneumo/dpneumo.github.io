@@ -21,7 +21,8 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Mitch Kuppinger"
 description              : "Documenting the WWNA activities"
-url                      : "https://wwna.org"
+#url                      : "https://wwna.org"
+servurl                  : "http://127.0.0.1:4000"
 baseurl                  : "/"
 repository               : "dpneumo/wwna.org"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -300,10 +301,12 @@ defaults:
       type: maps_2019-06-01
     values:
       layout: single
-      title: "Arkansas Lane Initial Plant Location Maps"
-      linkset: map/areamap-linkset.html
-      imageset: assets/img/area_maps
+      title: "Arkansas Lane Initial Plant Locations"
+      imageset: "assets/images"
       author_profile: false
+      toc: true
+      sidebar:
+        nav: "maps_2019-06-01"
 
 collections:
   maps_2019-06-01:
