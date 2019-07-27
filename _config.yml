@@ -21,9 +21,10 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Mitch Kuppinger"
 description              : "Documenting the WWNA activities"
-url                      : "https://wwna.github.com"
-baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+#url                      : "https://wwna.org"
+servurl                  : "http://127.0.0.1:4000"
+baseurl                  : "/"
+repository               : "dpneumo/wwna.org"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
@@ -293,3 +294,21 @@ defaults:
       comments: # true
       share: true
       related: true
+
+  # _maps_2019-06-01
+  - scope:
+      path: ""
+      type: maps_2019-06-01
+    values:
+      layout: single
+      title: "Arkansas Lane Initial Plant Locations"
+      imageset: "assets/images"
+      author_profile: false
+      toc: true
+      sidebar:
+        nav: "maps_2019-06-01"
+
+collections:
+  maps_2019-06-01:
+    output: true
+    permalink: /:collection/:path/
