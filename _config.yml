@@ -294,6 +294,8 @@ defaults:
       comments: # true
       share: # true
       related: true
+      sidebar:
+        nav: "posts"
 
   # _maps_2019-06-01
   - scope:
