@@ -1,4 +1,6 @@
 main:
+  - title: Posts
+    url: /posts/
   - title: "Area Maps - 2019-06-01"
     url: maps_2019-06-01/area01
   - title: "Area Pictures - 2019-06-08"

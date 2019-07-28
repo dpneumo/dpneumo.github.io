@@ -108,7 +108,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Mitch Kupinger"
+  name             : "Mitch Kuppinger"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Member of WWNA Landscape Committee"
   location         : "WWNA Arlington, Tx"
@@ -292,7 +292,7 @@ defaults:
       author_profile: true
       read_time: true
       comments: # true
-      share: true
+      share: # true
       related: true
 
   # _maps_2019-06-01
@@ -306,6 +306,7 @@ defaults:
       imageset: "assets/images/2019-06-01"
       ext: ".png"
       author_profile: false
+      classes: wide
       sidebar:
         nav: "maps_2019-06-01"
 
@@ -320,6 +321,7 @@ defaults:
       imageset: "assets/images/2019-06-08"
       ext: ".JPG"
       author_profile: false
+      classes: wide
       sidebar:
         nav: "pics_2019-06-08"
 
