@@ -17,7 +17,7 @@ Design Goals:
 
   5. Reduce the cost of maintenance.
 
-This Summer we are focussing on cleanup, irrigation repairs and installation of trellises. Beginning September when the heat of the summer is mostly behind us we will start on plantings.
+This Summer we are focusing on cleanup, irrigation repairs and installation of trellises. Beginning September when the heat of the summer is mostly behind us we will start on plantings.
 
 We are including some documentation of the border as it progresses. See the menu to the left. The planting plan is not yet in a format that can be shown here yet. We hope to have that up quickly.
 
