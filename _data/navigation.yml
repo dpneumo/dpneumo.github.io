@@ -3,6 +3,8 @@ main:
     url: /
 
 posts:
+  - title: "WWNA Map"
+    url: "WWNA_map"
   - title: "Border Maps - 2019-06-01"
     url: maps_2019-06-01/area01
   - title: "Border Pictures - 2019-06-08"
