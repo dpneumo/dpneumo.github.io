@@ -3,9 +3,9 @@ main:
     url: /
 
 posts:
-  - title: "Area Maps - 2019-06-01"
+  - title: "Border Maps - 2019-06-01"
     url: maps_2019-06-01/area01
-  - title: "Area Pictures - 2019-06-08"
+  - title: "Border Pictures - 2019-06-08"
     url: pics_2019-06-08/area01
 
 maps_2019-06-01:
