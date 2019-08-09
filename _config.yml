@@ -328,10 +328,28 @@ defaults:
       sidebar:
         nav: "pics_2019-06-08"
 
+  # _trellis_construction
+  - scope:
+      path: ""
+      type: trellis_construction
+    values:
+      layout: single
+      title: "Trellis Construction"
+      description: "Steps in the Trellis construction process."
+      imageset: "assets/images/trellis_construction"
+      ext: ".jpg"
+      author_profile: false
+      classes: wide
+      sidebar:
+        nav: "trellis_install"
+
 collections:
   maps_2019-06-01:
     output: true
     permalink: /:collection/:path/
   pics_2019-06-08:
+    output: true
+    permalink: /:collection/:path/
+  trellis_construction:
     output: true
     permalink: /:collection/:path/

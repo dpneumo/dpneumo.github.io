@@ -9,6 +9,8 @@ posts:
     url: maps_2019-06-01/area01
   - title: "Border Pictures - 2019-06-08"
     url: pics_2019-06-08/area01
+  - title: "Border Trellis Construction"
+    url: trellis_construction/layout1
   - title: "Border Project"
     url: border_proj_splash
 
@@ -83,3 +85,23 @@ pics_2019-06-08:
     url: pics_2019-06-08/area16
   - title: "Area 17"
     url: pics_2019-06-08/area17
+
+trellis_install:
+  - title: Layout
+    url: trellis_construction/layout1
+  - title: Layout
+    url: trellis_construction/layout2
+  - title: Materials
+    url: trellis_construction/materials
+  - title: Concrete
+    url: trellis_construction/concrete
+  - title: Setting Posts - 1
+    url: trellis_construction/SettingPosts1
+  - title: Setting Posts - 2
+    url: trellis_construction/SettingPosts2
+  - title: Setting Posts - 3
+    url: trellis_construction/SettingPosts3
+  - title: Posts In Place
+    url: trellis_construction/postsinplace
+  - title: Welding Mesh
+    url: trellis_construction/weldingmesh
