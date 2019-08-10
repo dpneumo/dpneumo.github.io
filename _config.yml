@@ -323,7 +323,7 @@ defaults:
       description: "Pictures taken before work was started. Marking the areas for plant removal and trellis positions."
       imageset: "assets/images/2019-06-08"
       ext: ".png"
-      frame: "height='375' width='500'"
+      frame: "height='400' width='1000'"
       author_profile: false
       classes: wide
       sidebar:
