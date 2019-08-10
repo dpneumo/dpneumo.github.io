@@ -21,8 +21,8 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Mitch Kuppinger"
 description              : "Documenting the WWNA activities"
-servurl                  : "https://wwna.org"
-#servurl                  : "http://127.0.0.1:4000"
+#servurl                  : "https://wwna.org"
+servurl                  : "http://127.0.0.1:4000"
 baseurl                  : ""
 collections_dir          : collections
 repository               : "dpneumo/wwna.org"
@@ -322,7 +322,8 @@ defaults:
       title: "Arkansas Lane Before Work Started"
       description: "Pictures taken before work was started. Marking the areas for plant removal and trellis positions."
       imageset: "assets/images/2019-06-08"
-      ext: ".JPG"
+      ext: ".png"
+      frame: "height='375' width='500'"
       author_profile: false
       classes: wide
       sidebar:
@@ -337,7 +338,7 @@ defaults:
       title: "Trellis Construction"
       description: "Steps in the Trellis construction process."
       imageset: "assets/images/trellis_construction"
-      ext: ".jpg"
+      ext: ".png"
       author_profile: false
       classes: wide
       sidebar:
