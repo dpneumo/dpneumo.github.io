@@ -1,13 +1,8 @@
 ---
 title: "Welding Mesh"
+frame: "height='375' width='500'"
 ---
-
-<h3>
-  {{ page.title }}
-</h3>
-
-<img src="{{ site.servurl }}/{{ site.baseurl }}{{ page.imageset }}/WeldingMesh.jpg" alt="">
-
+<img src="{{ site.servurl }}/{{ site.baseurl }}{{ page.imageset }}/WeldingMesh.png" {{ page.frame }} alt="{{ page.title }}">
 <div>
   {{ page.description }}
 </div>

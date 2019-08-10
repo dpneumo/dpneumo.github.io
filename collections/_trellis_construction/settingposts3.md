@@ -1,13 +1,8 @@
 ---
 title: "Setting Posts - 1"
+frame: "height='375' width='500'"
 ---
-
-<h3>
-  {{ page.title }}
-</h3>
-
-<img src="{{ site.servurl }}/{{ site.baseurl }}{{ page.imageset }}/SettingPosts3.jpg" alt="">
-
+<img src="{{ site.servurl }}/{{ site.baseurl }}{{ page.imageset }}/SettingPosts3.png" {{ page.frame }} alt="{{ page.title }}">
 <div>
   {{ page.description }}
 </div>

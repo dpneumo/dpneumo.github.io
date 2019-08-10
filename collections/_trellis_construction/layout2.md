@@ -1,13 +1,8 @@
 ---
 title: "Layout - 2"
+frame: "height='375' width='290'"
 ---
-
-<h3>
-  {{ page.title }}
-</h3>
-
-<img src="{{ site.servurl }}/{{ site.baseurl }}{{ page.imageset }}/Layout2.jpg" alt="">
-
+<img src="{{ site.servurl }}/{{ site.baseurl }}{{ page.imageset }}/Layout2.png" {{ page.frame }} alt="{{ page.title }}">
 <div>
   {{ page.description }}
 </div>
