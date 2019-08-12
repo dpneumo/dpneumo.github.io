@@ -338,7 +338,7 @@ defaults:
       title: "Trellis Construction"
       description: "Steps in the Trellis construction process."
       imageset: "assets/images/trellis_construction"
-      ext: ".png"
+      ext: ".jpg"
       landscape: "height='375' width='500'"
       portrait:  "height='375' width='290'"
       author_profile: false
