@@ -21,8 +21,8 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Mitch Kuppinger"
 description              : "Documenting the WWNA activities"
-servurl                  : "https://wwna.org"
-#servurl                  : "http://127.0.0.1:4000"
+#servurl                  : "https://wwna.org"
+servurl                  : "http://127.0.0.1:4000"
 baseurl                  : ""
 collections_dir          : collections
 repository               : "dpneumo/wwna.org"
@@ -112,7 +112,7 @@ author:
   name             : "Mitch Kuppinger"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Member of WWNA Landscape Committee"
-  location         : "WWNA Arlington, Tx"
+  location         : "WWNA, Arlington, Tx"
   email            :
   links:
     - label: "Email"
