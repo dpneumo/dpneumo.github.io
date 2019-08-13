@@ -100,11 +100,11 @@ trellis_install:
   - title: Concrete
     url: trellis_construction/concrete
   - title: Setting Posts - 1
-    url: trellis_construction/SettingPosts1
+    url: trellis_construction/settingposts1
   - title: Setting Posts - 2
-    url: trellis_construction/SettingPosts2
+    url: trellis_construction/settingposts2
   - title: Setting Posts - 3
-    url: trellis_construction/SettingPosts3
+    url: trellis_construction/settingposts3
   - title: Posts In Place
     url: trellis_construction/postsinplace
   - title: Welding Mesh
