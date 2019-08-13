@@ -347,6 +347,8 @@ defaults:
         nav: "trellis_install"
 
 collections:
+  posts:
+    output: true
   maps_2019-06-01:
     output: true
     permalink: /:collection/:path/

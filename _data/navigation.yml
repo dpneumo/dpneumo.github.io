@@ -1,18 +1,22 @@
 main:
   - title: Posts
     url: /
+  - title: Border Project
+    url: /border_proj_splash
 
 posts:
-  - title: "WWNA Map"
-    url: "WWNA_map"
-  - title: "Border Maps - 2019-06-01"
-    url: maps_2019-06-01/area01
-  - title: "Border Pictures - 2019-06-08"
-    url: pics_2019-06-08/area01
-  - title: "Border Trellis Construction"
-    url: trellis_construction/layout1
   - title: "Border Project"
     url: border_proj_splash
+
+border_proj:
+  - title: "WWNA Map"
+    url: "WWNA_map"
+  - title: "Maps 2019-06-01"
+    url: maps_2019-06-01/area01
+  - title: "Pics_2019-06-08"
+    url: pics_2019-06-08/area01
+  - title: "Trellis Install"
+    url: trellis_construction/layout1
 
 maps_2019-06-01:
   - title: "Area 1"
