@@ -346,6 +346,22 @@ defaults:
       sidebar:
         nav: "trellis_install"
 
+  # _pics_2019-08-21
+  - scope:
+      path: ""
+      type: pics_2019-08-21
+    values:
+      layout: single
+      title: "Arkansas Lane After Trellis Install"
+      description: "After Trellises were installed, area cleanup and mulch."
+      imageset: "assets/images/2019-08-21"
+      ext: ".jpg"
+      landscape: "height='400' width='1000'"
+      author_profile: false
+      classes: wide
+      sidebar:
+        nav: "pics_2019-08-21"
+
 collections:
   posts:
     output: true
@@ -356,5 +372,8 @@ collections:
     output: true
     permalink: /:collection/:path/
   trellis_construction:
+    output: true
+    permalink: /:collection/:path/
+  pics_2019-08-21:
     output: true
     permalink: /:collection/:path/
