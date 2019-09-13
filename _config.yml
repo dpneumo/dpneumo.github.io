@@ -362,6 +362,20 @@ defaults:
       sidebar:
         nav: "pics_2019-08-21"
 
+  # _perk_pl_guides
+  - scope:
+      path: ""
+      type: perk_pl_guides
+    values:
+      layout: single
+      title: "Perkins Place Planting Guides"
+      description: "Planting guides for the Perkins Place beds and fence line."
+      max-width: "1000"
+      author_profile: false
+      classes: wide
+      sidebar:
+        nav: "perk_pl_guides"
+
 collections:
   posts:
     output: true
@@ -375,5 +389,8 @@ collections:
     output: true
     permalink: /:collection/:path/
   pics_2019-08-21:
+    output: true
+    permalink: /:collection/:path/
+  perk_pl_guides:
     output: true
     permalink: /:collection/:path/

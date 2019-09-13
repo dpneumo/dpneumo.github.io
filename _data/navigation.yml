@@ -19,6 +19,8 @@ border_proj:
     url: trellis_construction/layout1
   - title: "Pics_2019-08-21"
     url: pics_2019-08-21/area01
+  - title: "Perkins Place Planting Guides"
+    url: perk_pl_guides/bed01
 
 maps_2019-06-01:
   - title: "Area 1"
@@ -147,3 +149,27 @@ pics_2019-08-21:
     url: pics_2019-08-21/area16
   - title: "Area 17"
     url: pics_2019-08-21/area17
+
+perk_pl_guides:
+  - title: "Bed 1"
+    url: perk_pl_guides/bed01
+  - title: "Bed 2"
+    url: perk_pl_guides/bed02
+  - title: "Bed 3"
+    url: perk_pl_guides/bed03
+  - title: "Bed 4"
+    url: perk_pl_guides/bed04
+  - title: "Bed 5"
+    url: perk_pl_guides/bed05
+  - title: "Bed 6"
+    url: perk_pl_guides/bed06
+  - title: "Bed 7"
+    url: perk_pl_guides/bed07
+  - title: "Bed 8"
+    url: perk_pl_guides/bed08
+  - title: "Bed 9"
+    url: perk_pl_guides/bed09
+  - title: "Bed 10"
+    url: perk_pl_guides/bed10
+  - title: "Fence Line Dwarf Yaupon"
+    url: perk_pl_guides/dy_plan
