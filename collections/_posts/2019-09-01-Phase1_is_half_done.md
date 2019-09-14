@@ -4,7 +4,7 @@ title:  "Phase 1 is half done!"
 categories: posts
 ---
 
-<img src="{{ site.servurl }}/{{ site.baseurl }}/assets/images/2019-08-21/area15.jpg" alt="">
+<img src="{{ site.servurl }}/assets/images/2019-08-21/area15.jpg" alt="">
 
 With a grant from the City of Arlington we began the WWNA Border Beautification Project in early June. We perceive the project to be more extensive than covered by the grant and our contribution this year. We conceive the current work under the grant as Phase 1 of a two year project and will be applying for a grant to assist completion of the entire envisioned project this fall as Phase 2.
 
