@@ -4,7 +4,7 @@
   {% endif %}
 
     <img class="docimage"
-         src="http://127.0.0.1:4000/assets/images/{{include.file}}"
+         src="{{ site.servurl }}/assets/images/{{include.file}}"
          alt="{{include.alt}}"
          {% if {{include.max-width}} %}
            style="max-width: {{include.max-width}}px"
