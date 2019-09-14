@@ -1,6 +1,7 @@
 ---
 layout: single
 title:  "Phase 1 is half done!"
+date: '2019-09-01 05:00:00'
 categories: posts
 ---
 
